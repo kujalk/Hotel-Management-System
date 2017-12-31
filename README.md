@@ -27,3 +27,5 @@ o Customer authentication
 o Booking for a wedding/party/meeting
 
 o Calculate the balanced payment
+
+Developer - K.Janarthanan
