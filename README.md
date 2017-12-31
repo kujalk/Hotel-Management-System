@@ -21,6 +21,9 @@ The credit card and debit card transaction can be acceptable for the payment pro
 B) Required validations provided
 
 C) Created Web Services to provide required functionalities
+
 o Customer authentication
+
 o Booking for a wedding/party/meeting
+
 o Calculate the balanced payment
